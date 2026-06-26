@@ -1,6 +1,10 @@
 Composer - Dependency Management for PHP
 ========================================
 
+> [!CAUTION]
+> This repository has been archived as of June 2026.  
+> If you wish to update or extend this project, please create a fork.
+
 Composer helps you declare, manage and install dependencies of PHP projects, ensuring you have the right stack everywhere.
 
 See [https://getcomposer.org/](https://getcomposer.org/) for more information and documentation.
